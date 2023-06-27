@@ -12,3 +12,12 @@ main .h1{
 main .p{
     font-size: 40px;
 }
+button[type=submit]{
+    background: #210099;
+    border: 0;
+    padding: 10px 30px;
+}
+button[type=submit]:hover{
+    background-color: pink;
+
+}
